@@ -12,7 +12,7 @@ const App = () => {
       <div className="navbar">
         <div className="studentInfo">
           {/* TODO: answer here */}
-          <h2 className="studentName">Buggy D Clown (Younkou)</h2>
+          <h2 className="studentName">Pratama</h2>
           <p className="studentId">FE101</p>
         </div>
         <Link to="/">Home</Link>
